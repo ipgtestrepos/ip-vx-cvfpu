@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/ip-ex2/vx-cvfpu
+manifest:
+    product_id: e9ee3880-6fa9-4d39-a430-9bd72e6d6696
+    release_id: faf55e73-5aae-4b1e-a0ee-d5d005d19000
+    company: vxtreme
+    name: vx-cvfpu
+    release: 3.3.1
+    uri: vxtreme/vx-cvfpu/3-3-1
+    product_type: ""
+    product_category: ""
+    use_semver: true
+    package_sources: true
+    fp_extensions: .cpp .h .sv .svh
+    product_index: ipindex
+    last_update: 2024-12-12T09:20:39.605484-05:00
+    description: VX CV Floating Point Unit
